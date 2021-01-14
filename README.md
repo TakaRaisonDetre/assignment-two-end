@@ -5,7 +5,7 @@ For checking, feel free to git clone and please go to the config folder and supp
 
 - Go to firebase console and check your config. Regarding firebase,
 
-  ## About Firebase [Firebase] (https://firebase.google.com/)
+## About Firebase [Firebase] (https://firebase.google.com/)
 
 - fill out var firebaseConfig into the file under config folder
 
@@ -14,7 +14,7 @@ For checking, feel free to git clone and please go to the config folder and supp
 }
 
 #　使い方
-ジョブエントリーのできる react native のアプリです。
+ジョブエントリーのできる react native のアプリです。応募を受け付けて、応募者のデータを Firebase Firestore に格納します。
 
 \*　 Firebase のコンソールからお使いの Project 　 Config を確認お願いします。
 
