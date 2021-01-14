@@ -5,7 +5,7 @@ import {gs} from '../../../styles'
 export default function Header() {
     return (
         <View>
-            <Image source={require('../../../assets/office.jpg')} style={{width:"100%", height: 180}}/>
+            <Image source={require('../../../assets/office.jpg')} style={{width:"100%", height: 100}}/>
         </View>
     )
 }
