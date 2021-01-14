@@ -15,7 +15,7 @@ For your checking, feel free to git clone and please go to the config folder and
 
 ### Regarding Expo
 
-You need to have a expo framework to run this application. For more detail please go to expo.io (https://docs.expo.io/)
+You need to have an expo framework to run this application. For more detail for expo framework, please go to expo.io (https://docs.expo.io/)
 Expo is the framework for react apps. For installation npm install --global expo-cli.
 
 # 使い方
