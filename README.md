@@ -1,7 +1,7 @@
 # How to Use
 
-This is the sample job aspplication form application using react-native for Github Repo.
-For checking, feel free to git clone and please go to the config folder and supply our own firebase config to play around
+This is the sample job application form using react-native for Github Repo.
+For your checking, feel free to git clone and please go to the config folder and supply your own firebase config to play around
 
 - Go to firebase console and check your config. Regarding firebase,
 
